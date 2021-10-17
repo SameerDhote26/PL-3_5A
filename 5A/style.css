@@ -1,0 +1,67 @@
+h1{
+    font-size: 60px;
+    background: -webkit-linear-gradient(rgb(230, 171, 104), rgb(245, 245, 245));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    background: -webkit-linear-gradient(rgb(230, 171, 104), rgb(245, 245, 245));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    
+}
+h3{
+    font-size: 40px;
+    background: -webkit-linear-gradient(rgb(230, 171, 104), rgb(245, 245, 245));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+body {
+    background-color: rgb(32, 33, 75);
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list-head{
+    font-weight: bold;
+    color: thistle;
+    font-size: 20px;
+    text-align: center;
+}
+
+table{
+    font-size: 20px;
+    color: bisque;
+}
+#slideshow { 
+    margin: 50px auto; 
+    position:absolute; 
+    max-width: 500px; 
+    max-height: 100px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+    align-items: center;
+  }
+  
+  #slideshow > article { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+  }
+
+  a{
+    font-size: 20px;
+    color: bisque;
+    align-content: center;
+  }
